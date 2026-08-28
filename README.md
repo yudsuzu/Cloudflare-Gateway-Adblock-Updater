@@ -16,7 +16,7 @@ The Python script in this repository automates updating your Cloudflare Zero Tru
 
 - **Zero-Downtime with smart synchronization of existing lists**
 
-  Detects and synchronizes existing Gateway lists and policies with the updated filters, ensuring outdated domains are removed and new ones are added without unnecessary recreation.
+  Detects and synchronizes existing Gateway lists and policies with the updated filters, ensuring outdated domains are removed and new ones are added without unnecessary recreation..
 
 - **Fast async API operations**
 
